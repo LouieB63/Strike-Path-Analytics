@@ -1,0 +1,5 @@
+{
+  "name": "StrikePath Analytics",
+  "description": "A professional-grade bowling team management and physics-based stance calculator. Track bowler rosters and calculate precise starting positions using advanced lane geometry formulas.",
+  "requestFramePermissions": []
+}
